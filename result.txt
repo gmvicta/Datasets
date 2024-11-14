@@ -1,0 +1,6 @@
+<=== RESULT  ===> {
+    Test RMSE: 0.7205610191150958
+    Best Model RMSE: 0.24649816344449885
+    Best Hyperparameters: {'learning_rate': 0.001, 'dropout_rate': 0.3, 'l2_reg': 0.01}
+    model saved as 'sales_prediction_best_model.keras'
+}

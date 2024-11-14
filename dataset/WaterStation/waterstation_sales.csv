@@ -1,0 +1,187 @@
+Date,Product,Size,Quantity Sold,Price,Total Sales
+2024-10-01,Gallon Round,New,20,150,3000
+2024-10-01,Gallon Round,Refill,6,20,120
+2024-10-01,Gallon Slim,New,28,150,4200
+2024-10-01,Gallon Slim,Refill,14,20,280
+2024-10-01,350ml,New,13,10,130
+2024-10-01,500ml,New,2,15,30
+2024-10-02,Gallon Round,New,29,150,4350
+2024-10-02,Gallon Round,Refill,7,20,140
+2024-10-02,Gallon Slim,New,23,150,3450
+2024-10-02,Gallon Slim,Refill,19,20,380
+2024-10-02,350ml,New,24,10,240
+2024-10-02,500ml,New,27,15,405
+2024-10-03,Gallon Round,New,28,150,4200
+2024-10-03,Gallon Round,Refill,17,20,340
+2024-10-03,Gallon Slim,New,9,150,1350
+2024-10-03,Gallon Slim,Refill,3,20,60
+2024-10-03,350ml,New,26,10,260
+2024-10-03,500ml,New,3,15,45
+2024-10-04,Gallon Round,New,2,150,300
+2024-10-04,Gallon Round,Refill,10,20,200
+2024-10-04,Gallon Slim,New,23,150,3450
+2024-10-04,Gallon Slim,Refill,18,20,360
+2024-10-04,350ml,New,13,10,130
+2024-10-04,500ml,New,25,15,375
+2024-10-05,Gallon Round,New,2,150,300
+2024-10-05,Gallon Round,Refill,20,20,400
+2024-10-05,Gallon Slim,New,7,150,1050
+2024-10-05,Gallon Slim,Refill,30,20,600
+2024-10-05,350ml,New,26,10,260
+2024-10-05,500ml,New,29,15,435
+2024-10-06,Gallon Round,New,11,150,1650
+2024-10-06,Gallon Round,Refill,24,20,480
+2024-10-06,Gallon Slim,New,19,150,2850
+2024-10-06,Gallon Slim,Refill,30,20,600
+2024-10-06,350ml,New,29,10,290
+2024-10-06,500ml,New,13,15,195
+2024-10-07,Gallon Round,New,26,150,3900
+2024-10-07,Gallon Round,Refill,28,20,560
+2024-10-07,Gallon Slim,New,14,150,2100
+2024-10-07,Gallon Slim,Refill,10,20,200
+2024-10-07,350ml,New,3,10,30
+2024-10-07,500ml,New,25,15,375
+2024-10-08,Gallon Round,New,30,150,4500
+2024-10-08,Gallon Round,Refill,29,20,580
+2024-10-08,Gallon Slim,New,8,150,1200
+2024-10-08,Gallon Slim,Refill,4,20,80
+2024-10-08,350ml,New,9,10,90
+2024-10-08,500ml,New,23,15,345
+2024-10-09,Gallon Round,New,24,150,3600
+2024-10-09,Gallon Round,Refill,27,20,540
+2024-10-09,Gallon Slim,New,10,150,1500
+2024-10-09,Gallon Slim,Refill,24,20,480
+2024-10-09,350ml,New,2,10,20
+2024-10-09,500ml,New,22,15,330
+2024-10-10,Gallon Round,New,26,150,3900
+2024-10-10,Gallon Round,Refill,9,20,180
+2024-10-10,Gallon Slim,New,3,150,450
+2024-10-10,Gallon Slim,Refill,3,20,60
+2024-10-10,350ml,New,25,10,250
+2024-10-10,500ml,New,8,15,120
+2024-10-11,Gallon Round,New,22,150,3300
+2024-10-11,Gallon Round,Refill,18,20,360
+2024-10-11,Gallon Slim,New,29,150,4350
+2024-10-11,Gallon Slim,Refill,26,20,520
+2024-10-11,350ml,New,29,10,290
+2024-10-11,500ml,New,18,15,270
+2024-10-12,Gallon Round,New,29,150,4350
+2024-10-12,Gallon Round,Refill,13,20,260
+2024-10-12,Gallon Slim,New,9,150,1350
+2024-10-12,Gallon Slim,Refill,21,20,420
+2024-10-12,350ml,New,1,10,10
+2024-10-12,500ml,New,13,15,195
+2024-10-13,Gallon Round,New,13,150,1950
+2024-10-13,Gallon Round,Refill,18,20,360
+2024-10-13,Gallon Slim,New,3,150,450
+2024-10-13,Gallon Slim,Refill,8,20,160
+2024-10-13,350ml,New,7,10,70
+2024-10-13,500ml,New,16,15,240
+2024-10-14,Gallon Round,New,4,150,600
+2024-10-14,Gallon Round,Refill,1,20,20
+2024-10-14,Gallon Slim,New,3,150,450
+2024-10-14,Gallon Slim,Refill,6,20,120
+2024-10-14,350ml,New,14,10,140
+2024-10-14,500ml,New,27,15,405
+2024-10-15,Gallon Round,New,25,150,3750
+2024-10-15,Gallon Round,Refill,30,20,600
+2024-10-15,Gallon Slim,New,29,150,4350
+2024-10-15,Gallon Slim,Refill,3,20,60
+2024-10-15,350ml,New,22,10,220
+2024-10-15,500ml,New,23,15,345
+2024-10-16,Gallon Round,New,23,150,3450
+2024-10-16,Gallon Round,Refill,18,20,360
+2024-10-16,Gallon Slim,New,17,150,2550
+2024-10-16,Gallon Slim,Refill,28,20,560
+2024-10-16,350ml,New,28,10,280
+2024-10-16,500ml,New,2,15,30
+2024-10-17,Gallon Round,New,22,150,3300
+2024-10-17,Gallon Round,Refill,16,20,320
+2024-10-17,Gallon Slim,New,10,150,1500
+2024-10-17,Gallon Slim,Refill,2,20,40
+2024-10-17,350ml,New,13,10,130
+2024-10-17,500ml,New,5,15,75
+2024-10-18,Gallon Round,New,4,150,600
+2024-10-18,Gallon Round,Refill,3,20,60
+2024-10-18,Gallon Slim,New,2,150,300
+2024-10-18,Gallon Slim,Refill,24,20,480
+2024-10-18,350ml,New,19,10,190
+2024-10-18,500ml,New,7,15,105
+2024-10-19,Gallon Round,New,16,150,2400
+2024-10-19,Gallon Round,Refill,1,20,20
+2024-10-19,Gallon Slim,New,12,150,1800
+2024-10-19,Gallon Slim,Refill,23,20,460
+2024-10-19,350ml,New,11,10,110
+2024-10-19,500ml,New,7,15,105
+2024-10-20,Gallon Round,New,27,150,4050
+2024-10-20,Gallon Round,Refill,30,20,600
+2024-10-20,Gallon Slim,New,30,150,4500
+2024-10-20,Gallon Slim,Refill,15,20,300
+2024-10-20,350ml,New,3,10,30
+2024-10-20,500ml,New,30,15,450
+2024-10-21,Gallon Round,New,28,150,4200
+2024-10-21,Gallon Round,Refill,13,20,260
+2024-10-21,Gallon Slim,New,20,150,3000
+2024-10-21,Gallon Slim,Refill,5,20,100
+2024-10-21,350ml,New,30,10,300
+2024-10-21,500ml,New,1,15,15
+2024-10-22,Gallon Round,New,16,150,2400
+2024-10-22,Gallon Round,Refill,14,20,280
+2024-10-22,Gallon Slim,New,18,150,2700
+2024-10-22,Gallon Slim,Refill,11,20,220
+2024-10-22,350ml,New,2,10,20
+2024-10-22,500ml,New,25,15,375
+2024-10-23,Gallon Round,New,19,150,2850
+2024-10-23,Gallon Round,Refill,21,20,420
+2024-10-23,Gallon Slim,New,9,150,1350
+2024-10-23,Gallon Slim,Refill,24,20,480
+2024-10-23,350ml,New,29,10,290
+2024-10-23,500ml,New,22,15,330
+2024-10-24,Gallon Round,New,12,150,1800
+2024-10-24,Gallon Round,Refill,11,20,220
+2024-10-24,Gallon Slim,New,12,150,1800
+2024-10-24,Gallon Slim,Refill,3,20,60
+2024-10-24,350ml,New,8,10,80
+2024-10-24,500ml,New,19,15,285
+2024-10-25,Gallon Round,New,14,150,2100
+2024-10-25,Gallon Round,Refill,10,20,200
+2024-10-25,Gallon Slim,New,2,150,300
+2024-10-25,Gallon Slim,Refill,5,20,100
+2024-10-25,350ml,New,5,10,50
+2024-10-25,500ml,New,20,15,300
+2024-10-26,Gallon Round,New,10,150,1500
+2024-10-26,Gallon Round,Refill,19,20,380
+2024-10-26,Gallon Slim,New,28,150,4200
+2024-10-26,Gallon Slim,Refill,10,20,200
+2024-10-26,350ml,New,30,10,300
+2024-10-26,500ml,New,3,15,45
+2024-10-27,Gallon Round,New,25,150,3750
+2024-10-27,Gallon Round,Refill,18,20,360
+2024-10-27,Gallon Slim,New,5,150,750
+2024-10-27,Gallon Slim,Refill,12,20,240
+2024-10-27,350ml,New,4,10,40
+2024-10-27,500ml,New,19,15,285
+2024-10-28,Gallon Round,New,17,150,2550
+2024-10-28,Gallon Round,Refill,7,20,140
+2024-10-28,Gallon Slim,New,5,150,750
+2024-10-28,Gallon Slim,Refill,15,20,300
+2024-10-28,350ml,New,10,10,100
+2024-10-28,500ml,New,22,15,330
+2024-10-29,Gallon Round,New,16,150,2400
+2024-10-29,Gallon Round,Refill,21,20,420
+2024-10-29,Gallon Slim,New,13,150,1950
+2024-10-29,Gallon Slim,Refill,7,20,140
+2024-10-29,350ml,New,13,10,130
+2024-10-29,500ml,New,21,15,315
+2024-10-30,Gallon Round,New,22,150,3300
+2024-10-30,Gallon Round,Refill,7,20,140
+2024-10-30,Gallon Slim,New,25,150,3750
+2024-10-30,Gallon Slim,Refill,16,20,320
+2024-10-30,350ml,New,25,10,250
+2024-10-30,500ml,New,6,15,90
+2024-10-31,Gallon Round,New,23,150,3450
+2024-10-31,Gallon Round,Refill,1,20,20
+2024-10-31,Gallon Slim,New,13,150,1950
+2024-10-31,Gallon Slim,Refill,8,20,160
+2024-10-31,350ml,New,28,10,280
+2024-10-31,500ml,New,7,15,105
